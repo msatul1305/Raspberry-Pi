@@ -1,2 +1,3 @@
 go to root -> su -i
-login to pi in GUI mode->
+login to pi in GUI mode using VNC Viewer -> vncserver -geometry 1366x768 -depth 24 -dpi 96
+ 
