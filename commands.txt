@@ -1,1 +1,2 @@
 go to root -> su -i
+login to pi in GUI mode->
