@@ -1,3 +1,5 @@
 go to root -> su -i
 login to pi in GUI mode using VNC Viewer -> vncserver -geometry 1366x768 -depth 24 -dpi 96
  
+192.168.43.161 : static ip assigned
+Ip address of Raspberry pi
